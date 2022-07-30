@@ -6,8 +6,5 @@ In this project i am analysing a digital store's product range, performing analy
 
 <ul>
 <li> Notebook with EDA, RFM analysis, key words function, hypothesis testing, including a brief documentation, presentation and a dashboard - Digital Store's Products Range.ipynb </li>
-<li> dataset: hypotheses_us.csv </li>
-<li> dataset: orders_us.csv </li>
-<li> dataset: visits_us.csv </li>
 
 </ul>
